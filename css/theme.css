@@ -494,3 +494,16 @@ footer li a{
 .eu_padding-bottom4vh {
 	padding-bottom: 4vh;
 }
+
+.eu_padding-top2vh {
+	padding-top: 2vh;
+}
+
+.eu_content1 { /*I was here when I stopped*/
+	font-size: 18px;
+	direction: rtl;
+	margin-bottom: auto;
+	word-wrap: break-word ;
+	text-overflow: ellipsis;
+
+}
