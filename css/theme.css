@@ -502,6 +502,7 @@ footer li a{
 .eu_content1 { /*I was here when I stopped*/
 	font-size: 18px;
 	direction: rtl;
+	text-align: right;
 	margin-bottom: auto;
 	word-wrap: break-word ;
 	text-overflow: ellipsis;
