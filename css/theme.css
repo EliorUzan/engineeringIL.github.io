@@ -130,7 +130,7 @@ hr {
 }
 
 .eu_navbar {
-	font-size: 20px;
+	font-size: 18px;
 
 
 }
@@ -433,7 +433,8 @@ footer li a{
 		margin:  0 auto;
 	}
 	.navigation-bar nav{
-		display: none;
+		font-size: 14px;
+		/*display: none;*/
 	}
 
 	.row {
@@ -508,3 +509,15 @@ footer li a{
 	text-overflow: ellipsis;
 
 }
+
+/*@media only screen and (max-width: 600px) { 
+	.eu_navbar{
+		font-size: 16px;
+	}
+}
+
+@media only screen and (max-width: 400px) { 
+	.eu_navbar{
+		font-size: 12px;
+	}
+}*/
