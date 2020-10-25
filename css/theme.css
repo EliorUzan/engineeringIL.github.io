@@ -130,7 +130,7 @@ hr {
 }
 
 .eu_navbar {
-	font-size: 18px;
+	font-size: 14px;
 
 
 }
@@ -433,7 +433,7 @@ footer li a{
 		margin:  0 auto;
 	}
 	.navigation-bar nav{
-		font-size: 14px;
+		font-size: 12px;
 		/*display: none;*/
 	}
 
@@ -448,6 +448,25 @@ footer li a{
 	}
 }
 
+@media (max-width: 1000px) {
+	.navigation-bar .logo{
+		margin:  0 auto;
+	}
+	.navigation-bar nav{
+		font-size: 8px;
+		/*display: none;*/
+	}
+
+	.row {
+		margin: 0 auto;
+		padding-left: 1rem; 
+		padding-right: 1rem; 
+	}
+
+	.cta .display {
+		margin-top: 1rem;
+	}
+}
 
 /* animation  */
 @-webkit-keyframes fade-in {
